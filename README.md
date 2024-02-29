@@ -239,5 +239,5 @@ Simple shell 1.0 +
 
 ### Authors:
 
-* [Mehari Hagos](https://github.com/Hagos2022)
-* [Hailemariam Gebremichael](https://github.com/haile7516)
+* Robert
+* Geoffrey
